@@ -1,2 +1,19 @@
-# temperature-converter
-Modern Temperature Converter with UI, dark mode, history &amp; animations
+# 🌡️ Temperature Converter Web App
+
+A modern temperature converter built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Real-time temperature conversion
+- Dark / Light mode toggle
+- Conversion history (LocalStorage)
+- Copy to clipboard
+- Keyboard shortcuts
+- Smooth UI animations
+
+## 🔗 Live Demo
+https://nireeksha-temperature-converter.netlify.app/
+
+## 💻 Tech Used
+- HTML
+- CSS
+- JavaScript
