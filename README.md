@@ -17,3 +17,12 @@ https://nireeksha-temperature-converter.netlify.app/
 - HTML
 - CSS
 - JavaScript
+
+## 📌 Internship Task
+Completed as part of **Prodigy InfoTech Software Development Internship**
+
+## 👩‍💻 Author
+
+**Nireeksha**
+Computer Science Engineering Student
+Aspiring Software Developer
